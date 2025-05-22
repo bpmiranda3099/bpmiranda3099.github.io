@@ -516,9 +516,12 @@ a:hover
 #skills .skills-list li i
 {
     font-size: 2.2rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
 
-    width: 3em;
-    height: 3em;
+    width: 4.5em;
+    height: 4.5em;
     margin-right: 1.5em;
 
     text-align: center;
